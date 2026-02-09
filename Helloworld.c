@@ -27,3 +27,8 @@ int main(){
 // ta pare git add .
 // ta pare git commit -m "my first commit c program hello world program"
 // ta pare fiannly git push
+// git push kama na kale ata run kariba 
+//  git push --set-upstream origin master
+// git push kala bele bele bele login karibaku mage mane github website saha system ra cmd saha ta pare github website au system link heijae
+// code psuh kariba pai ready au git push sucess heijae
+// abe github ku jaa website ku repo jou baneithila open kara tama code sethi thiba
